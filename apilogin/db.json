@@ -1,0 +1,14 @@
+{
+    "usuarios": [
+         {
+             "id" : 1,
+             "apellido_paterno" : "Perez",
+             "apellido_materno" : "Lopez",
+             "nombre" : "Yamile",
+             "username" : "yamile@correo.com",
+             "password" : "827ccb0eea8a706c4c34a16891f84e7b"
+ 
+ 
+         }
+     ]
+ }
